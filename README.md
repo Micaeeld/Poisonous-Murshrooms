@@ -1,19 +1,19 @@
-# Classificação de cogumelos venenosos ou comestíveis
+# Classification of poisonous or edible mushrooms
 
-Este notebook apresenta um modelo de classificação de cogumelos como venenosos ou comestíveis. O dataset utilizado é composto de informações sobre diversas características dos cogumelos, como forma, cor, odor, bem como informações sobre se o cogumelo é venenoso ou não.
+This notebook presents a model for classifying mushrooms as poisonous or edible. The dataset used is composed of information about various characteristics of the mushrooms, such as shape, color, odor, as well as information about whether the mushroom is poisonous or not.
 
 ## Dataset
-O conjunto de dados utilizado neste notebook foi obtido através do Kaggle e contém informações sobre cogumelos venenosos e comestíveis. Ele é composto por 8124 amostras e 23 atributos, incluindo a classe do cogumelo (venenoso ou comestível), disponivel em https://www.kaggle.com/code/micaeld/poisonous-mushrooms-predict.
+The dataset used in this notebook was obtained through Kaggle and contains information on poisonous and edible mushrooms. It consists of 8124 samples and 23 attributes, including the mushroom class (poisonous or edible), available at https://www.kaggle.com/code/micaeld/poisonous-mushrooms-predict.
 
-## Análise exploratória dos dados
-Inicialmente, realizei uma análise exploratória dos dados para entender a distribuição das classes e a relação entre as diferentes variáveis do dataset. Em seguida, realizei uma limpeza dos dados e preparei-os para o treinamento do modelo.
+## Exploratory data analysis
+Initially, I performed an exploratory analysis of the data to understand the distribution of classes and the relationship between the different variables in the dataset. I then performed a data cleanup and prepared it for model training.
 
-## Treinamento do modelo
-Utilizei uma árvore de decisão para realizar a classificação dos cogumelos. O modelo foi treinado com os dados de treinamento e validado com os dados de teste. A acurácia do modelo atingiu 100%, o que indica um desempenho perfeito na tarefa de classificação.
+## Model training
+I used a decision tree to classify the mushrooms. The model was trained with the training data and validated with the test data. The model accuracy reached 100%, which indicates a perfect performance in the classification task.
 
-## Resultados
-O modelo treinado pode ser utilizado para classificar cogumelos como venenosos ou comestíveis com alta precisão. Isso pode ser útil para pessoas que desejam coletar cogumelos para consumo próprio ou para empresas que vendem cogumelos comestíveis.
+## Results
+The trained model can be used to classify mushrooms as poisonous or edible with high accuracy. This can be useful for people who want to collect mushrooms for their own consumption or for businesses that sell edible mushrooms.
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, abra um problema no repositório ou envie uma solicitação de pull.
-uma solicitação de pull.
+## Contribution
+Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
+a pull request.
