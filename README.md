@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Classification of poisonous or edible mushrooms
 
 This notebook presents a model for classifying mushrooms as poisonous or edible. The dataset used is composed of information about various characteristics of the mushrooms, such as shape, color, odor, as well as information about whether the mushroom is poisonous or not.
